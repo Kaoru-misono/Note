@@ -32,6 +32,12 @@ Note/
 └── .obsidian/
 ```
 
+## 目录层级说明
+
+- `study-notes/` 和 `knowledge-base/`：使用 `{type}/{topic}/` 两层结构
+- `cheatsheets/`：扁平结构，不按主题分子目录
+- `projects/`：按项目名分子目录，结构暂不规定，后续按需设计
+
 ## 命名规则
 
 - **目录名**：英文短横线（如 `study-notes/`、`golang/`）
@@ -88,6 +94,10 @@ aliases:
 
 ## 模板
 
+模板使用 Obsidian 核心 Templates 插件语法（`{{title}}`、`{{date:YYYY-MM-DD}}`）。Claude 创建笔记时直接替换为实际值，不依赖 Obsidian 模板引擎。
+
+`overview.md`（主题总览）复用 `study-note.md` 模板。
+
 ### `templates/study-note.md`
 
 ```markdown
@@ -124,7 +134,7 @@ aliases: []
 
 ### `CLAUDE.md`
 
-Claude 的行为规则与写作风格指南：
+Claude 的行为规则与写作风格指南（内容从本 spec 派生）：
 
 - **仓库结构说明**：目录约定、命名规则、frontmatter 规范
 - **写作风格**：中文为主，技术术语保留英文；语气简洁清晰
@@ -138,6 +148,34 @@ Claude 的行为规则与写作风格指南：
 ### `plans/learning-roadmap.md`
 
 学习计划与路线，记录当前学习内容、计划学习内容和已完成内容。Claude 参考此文件来建议笔记结构。
+
+### 初始化
+
+首次搭建时需创建 `index/catalog.md` 和 `plans/learning-roadmap.md` 的初始骨架：
+
+`index/catalog.md`：
+```markdown
+# 笔记目录
+
+## study-notes
+
+## knowledge-base
+
+## cheatsheets
+
+## projects
+```
+
+`plans/learning-roadmap.md`：
+```markdown
+# 学习路线
+
+## 当前
+
+## 计划
+
+## 已完成
+```
 
 ## Claude 工作流程
 
