@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "content/study-notes/pbrt4/chapter2/C2.4-transforming-distributions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cb72c9d8a04851af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "51e749c80b1f9dba",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "C2.4-transforming-distributions"
             }
           }
         ]
@@ -69,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CDF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 413.5
   },
   "right": {
     "id": "d4d34229250e2ee6",
@@ -201,6 +185,43 @@
   },
   "active": "5a991998369d86ff",
   "lastOpenFiles": [
+    "content/study-notes/pbrt4/chapter2/C2.3-sampling-inversion-method.md",
+    "content/study-notes/pbrt4/chapter2/C2.4-transforming-distributions.md",
+    "content/study-notes/pbrt4/chapter2/translations/C2.4-transforming-distributions-translation.md",
+    "content/study-notes/pbrt4/chapter2/translations/C2.1-monte-carlo-basics-translation.md",
+    "content/study-notes/pbrt4/chapter2/translations/C2.3-sampling-inversion-method-translation.md",
+    "content/study-notes/pbrt4/chapter2/translations/C2.2-improving-efficiency-translation.md",
+    "content/study-notes/pbrt4/chapter2/translations",
+    "content/study-notes/pbrt4/chapter2/C2.3-sampling-inversion-method-translation.md",
+    "templates/concept-note.md",
+    "templates/study-note.md",
+    "plans/learning-roadmap.md",
+    "content/study-notes/pbrt4/chapter2/C2.1-monte-carlo-basics.md",
+    "content/study-notes/pbrt4/overview.md",
+    "content/study-notes/CLAUDE.md",
+    "CLAUDE.md",
+    "content/study-notes/pbrt4/chapter2/sampling-inversion-method-translation.md",
+    "content/study-notes/pbrt4/chapter2/C2-glossary.md",
+    "content/study-notes/pbrt4/chapter2/C2.2-improving-efficiency-translation.md",
+    "content/study-notes/pbrt4/chapter2/C2.2-improving-efficiency.md",
+    "content/study-notes/pbrt4/chapter2/C2.1-monte-carlo-basics-translation.md",
+    "content/study-notes/pbrt4/chapter2/improving-efficiency-translation.md",
+    "content/study-notes/pbrt4/chapter2/glossary.md",
+    "content/study-notes/pbrt4/chapter2/assets/discrete-inversion.svg",
+    "content/study-notes/pbrt4/chapter2/assets/discrete-cdf.svg",
+    "content/study-notes/pbrt4/chapter2/assets/discrete-pdf.svg",
+    "content/study-notes/pbrt4/chapter2/monte-carlo-basics-translation.md",
+    "content/study-notes/pbrt4/chapter2/improving-efficiency.md",
+    "content/study-notes/pbrt4/chapter2/monte-carlo-basics.md",
+    "content/study-notes/pbrt4/chapter2/assets/piecewise-gaussian-samples.svg",
+    "content/study-notes/pbrt4/chapter2/assets/piecewise-gaussian-pdf.svg",
+    "content/study-notes/pbrt4/chapter2/assets/narrow-gaussian.svg",
+    "content/study-notes/pbrt4/chapter2/assets/bunny-stratified.png",
+    "content/study-notes/pbrt4/chapter2/assets/bunny-independent.png",
+    "content/study-notes/pbrt4/chapter2/assets",
+    "渲染方程.md",
+    "content/study-notes/pbrt4/chapter2",
+    "content/study-notes/pbrt4",
     "欢迎.md"
   ]
 }
