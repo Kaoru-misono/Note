@@ -2,6 +2,16 @@
 
 ## study-notes
 
+### pbrt4
+- [[overview]] - PBRT4 学习总览与章节规划
+
+#### chapter2 - Monte Carlo Integration
+- [[C2.1-monte-carlo-basics]] - Monte Carlo 基础：概率回顾、MC 估计器与误差分析
+- [[C2.2-improving-efficiency]] - 方差缩减四大技术：分层采样、重要性采样、MIS、俄罗斯轮盘赌
+- [[C2.3-sampling-inversion-method]] - 反演法采样：离散/连续情况、线性函数完整推导
+- [[C2.4-transforming-distributions]] - 分布间变换：Jacobian、极/球坐标、Marginal-Conditional、双线性采样
+- [[C2-glossary]] - Chapter 2 术语表
+
 ## knowledge-base
 
 ## cheatsheets
