@@ -16,7 +16,10 @@
 ## 命名规则
 
 - **目录名**：英文短横线（`golang/`、`study-notes/`）
-- **章节笔记文件名**：英文短横线（`goroutine-and-channel.md`）
+- **章节笔记文件名**：带章节前缀 + 英文短横线，格式 `C{章}.{节}-描述.md`
+  - 笔记：`C2.1-monte-carlo-basics.md`
+  - 翻译：`C2.1-monte-carlo-basics-translation.md`（同名加 `-translation` 后缀）
+  - 章级文件（如术语表）：`C2-glossary.md`
 - **概念笔记文件名**：英文空格（`Goroutine.md`、`Go Concurrency Model.md`）
 
 ## Frontmatter 规范
@@ -35,6 +38,8 @@ category 取值：`study-notes` / `knowledge-base` / `cheatsheets` / `projects`
 - 概念笔记通过 `aliases` 支持中文搜索（如 `aliases: [Go协程]`）
 
 ## 工作流程
+
+各 category 下可能有自己的 `CLAUDE.md`，包含该类型笔记的详细写作规范（如图片、公式、代码的格式要求）。创建笔记前先检查对应目录下是否存在。
 
 ### 创建笔记
 
