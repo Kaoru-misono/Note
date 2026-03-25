@@ -1,0 +1,12 @@
+/* 图片突破可读行宽限制，撑满编辑区 */
+.markdown-reading-view .image-embed,
+.markdown-preview-view .image-embed {
+  max-width: 100%;
+  width: 100%;
+}
+
+.markdown-reading-view .image-embed img,
+.markdown-preview-view .image-embed img {
+  max-width: 100%;
+  width: 100%;
+}

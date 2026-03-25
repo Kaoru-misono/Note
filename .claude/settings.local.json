@@ -1,20 +1,18 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:pbr-book.org)",
-      "Bash(curl -s -L --max-time 30 \"https://pbr-book.org/4ed/Monte_Carlo_Integration/Monte_Carlo_Basics\")",
-      "Bash(curl -sL -o discrete-pdf.svg \"https://pbr-book.org/4ed/Monte_Carlo_Integration/discrete-pdf.svg\")",
-      "Bash(curl -sL -o discrete-cdf.svg \"https://pbr-book.org/4ed/Monte_Carlo_Integration/discrete-cdf.svg\")",
-      "Bash(curl -sL -o discrete-inversion.svg \"https://pbr-book.org/4ed/Monte_Carlo_Integration/discrete-inversion.svg\")",
-      "Bash(ls -la discrete-*.svg)",
-      "Bash(mv monte-carlo-basics.md C2.1-monte-carlo-basics.md)",
-      "Bash(mv monte-carlo-basics-translation.md C2.1-monte-carlo-basics-translation.md)",
-      "Bash(mv improving-efficiency.md C2.2-improving-efficiency.md)",
-      "Bash(mv improving-efficiency-translation.md C2.2-improving-efficiency-translation.md)",
-      "Bash(mv sampling-inversion-method-translation.md C2.3-sampling-inversion-method-translation.md)"
+      "Bash(*)",
+      "Edit",
+      "Write",
+      "Read",
+      "Glob",
+      "Grep",
+      "WebFetch",
+      "WebSearch"
+    ],
+    "deny": [
+      "Bash(git push*)",
+      "Bash(git push --force*)"
     ]
-  },
-  "enabledPlugins": {
-    "superpowers@claude-plugins-official": true
   }
 }
