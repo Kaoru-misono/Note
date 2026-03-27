@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/projects/UE/FastGeo 调研.md",
+                "file": "content/projects/UE/FastGeo/Streaming Improvements for Dense Worlds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FastGeo 调研"
+              "title": "Streaming Improvements for Dense Worlds"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/projects/UE/Unreal Engine FastGeo Streaming 实践教程.md",
+                "file": "content/projects/UE/FastGeo/Unreal Engine FastGeo Streaming 实践教程.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,31 +36,33 @@
             }
           },
           {
-            "id": "1c62ceed9d698986",
+            "id": "e25b4ab3dd01ee48",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "content/projects/UE/assets/Pasted image 20260327195322.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260327195322"
+            }
+          },
+          {
+            "id": "38b3aadaed9ab849",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "content/projects/UE/FastGeo/FastGeo 原理与使用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
-            }
-          },
-          {
-            "id": "e25b4ab3dd01ee48",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "FastGeo 原理与使用"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "content/projects/UE/FastGeo/FastGeo 原理与使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CLAUDE 的反向链接列表"
+              "title": "FastGeo 原理与使用 的反向链接列表"
             }
           },
           {
@@ -222,52 +224,53 @@
       "bases:新建数据库": false
     }
   },
-  "active": "865a95c320aa3d05",
+  "active": "38b3aadaed9ab849",
   "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "content/projects/UE/assets/fg/fastgeo_off_pcg.png",
+    "content/projects/UE/assets/fg/fastgeo_on_pcg.png",
+    "content/projects/UE/assets/fg/fastgeo_off_sm.png",
+    "content/projects/UE/assets/fg/fastgeo_on_sm.png",
+    "content/projects/UE/assets/fg/scene.png",
+    "content/projects/UE/assets/fg",
+    "%LOCALAPPDATA%/Google/Chrome/User Data/Default/7d747f1b-168a-4508-a3f9-30090b80aae4.tmp",
+    "%LOCALAPPDATA%/Google/Chrome/User Data/Default/Network/63a2e326-1637-4e3d-a167-e1076517e6a1.tmp",
+    "%LOCALAPPDATA%/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0002bb",
+    "%LOCALAPPDATA%/Google/Chrome/User Data/Default/Network/2882867c-5fd8-4343-9d59-570afd96d137.tmp",
+    "%LOCALAPPDATA%/Google/Chrome/User Data/Default/Network/758749a7-a6af-46be-8337-0caf81897366.tmp",
+    "%LOCALAPPDATA%/Google/Chrome/User Data/Default/08753153-3164-4502-9aad-4dabc2bbe9e6.tmp",
+    "%LOCALAPPDATA%/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0002ba",
+    "%LOCALAPPDATA%/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0002b9",
+    "%LOCALAPPDATA%/Google/Chrome/User Data/Default/Cache/Cache_Data/f_0002b8",
+    "feishu_perm_status.png",
+    "content/projects/UE/FastGeo/FastGeo 源码分析.md",
+    "content/projects/UE/FastGeo/FastGeo 性能测试.md",
+    "content/projects/UE/FastGeo/FastGeo 原理与使用.md",
+    "content/projects/UE/FastGeo/FastGeo 调研.md",
+    "content/projects/UE/FastGeo/Streaming Improvements for Dense Worlds.md",
+    "content/projects/UE/FastGeo/Streaming Improvements for Dense Worlds-translation.md",
+    "content/projects/UE/FastGeo/Unreal Engine FastGeo Streaming 实践教程.md",
+    "content/projects/UE/assets/Pasted image 20260327194955.png",
+    "content/projects/UE/assets/Pasted image 20260327195322.png",
+    "content/projects/UE/Nanite/Nanite_Tessellation_Pipeline.md",
+    "content/projects/UE/Claude 自主创建 C++ 蓝图的逻辑.md",
+    "Pasted image 20260327194525.png",
+    "content/knowledge-base/agent-engineering/Building Your Super Agent.md",
+    "detail_skills_list5.jpeg",
+    "CLAUDE.md",
     "content/knowledge-base/Agent 的超级进化 从零打造只属于你的超级Agent.md",
-    "未命名.base",
-    "content/projects/UE/Unreal Engine FastGeo Streaming 实践教程.md",
+    "content/feishu-cli-happyclaw-setup.md",
     "sfdsffdf.md",
-    "content/projects/UE/FastGeo 调研.md",
     "Streaming Improvements for Dense Worlds in the Witcher4.md",
-    "content/projects/UE/Streaming Improvements for Dense Worlds.md",
-    "docs/report.html",
-    "content/projects/UE/Streaming Improvements for Dense Worlds-translation.md",
-    "content/projects/UE/Nanite_Tessellation_Pipeline.md",
-    "content/projects/UE/assets/streaming-improvements/13-implement-transformers.jpg",
-    "content/projects/UE/assets/streaming-improvements/40-ism-transformer-results.jpg",
-    "content/projects/UE/assets/streaming-improvements/summary-key-takeaways.jpg",
-    "content/projects/UE/assets/streaming-improvements/future-research.jpg",
-    "content/projects/UE/assets/streaming-improvements/additional-improvements.jpg",
-    "content/projects/UE/assets/streaming-improvements/simple-streamable-manager.jpg",
-    "content/projects/UE/assets/streaming-improvements/texture-streaming-questions.jpg",
-    "content/projects/UE/assets/streaming-improvements/texture-streaming-cache.jpg",
-    "content/projects/UE/assets/streaming-improvements/texture-streaming-graph.jpg",
-    "content/projects/UE/assets/streaming-improvements/texture-streaming-registration.jpg",
-    "content/projects/UE/assets/streaming-improvements",
-    "content/projects/UE/assets",
-    "content/projects/UE/Nanite_Tessellation_Pipeline.md.tmp.65808.1774014512218",
-    "content/projects/UE/Nanite_Tessellation_Pipeline.md.tmp.65808.1774014497903",
     "content/study-notes/pbrt4/chapter2/C2.4-transforming-distributions.md",
-    "content/projects/UE",
-    "content/projects/新建文件夹",
     "content/study-notes/pbrt4/chapter2/C2.3-sampling-inversion-method.md",
     "content/study-notes/CLAUDE.md",
-    "content/projects/neon-engine",
-    "claude-icon.py",
     "content/study-notes/pbrt4/chapter2/translations/C2.4-transforming-distributions-translation.md",
     "content/study-notes/pbrt4/chapter2/translations/C2.1-monte-carlo-basics-translation.md",
     "content/study-notes/pbrt4/chapter2/translations/C2.3-sampling-inversion-method-translation.md",
     "content/study-notes/pbrt4/chapter2/translations/C2.2-improving-efficiency-translation.md",
     "content/study-notes/pbrt4/chapter2/C2.3-sampling-inversion-method-translation.md",
     "templates/concept-note.md",
-    "templates/study-note.md",
-    "plans/learning-roadmap.md",
-    "content/study-notes/pbrt4/chapter2/C2.1-monte-carlo-basics.md",
-    "content/study-notes/pbrt4/overview.md",
-    "CLAUDE.md",
-    "content/study-notes/pbrt4/chapter2/sampling-inversion-method-translation.md",
-    "content/study-notes/pbrt4/chapter2/C2-glossary.md",
-    "content/study-notes/pbrt4/chapter2/C2.2-improving-efficiency-translation.md"
+    "templates/study-note.md"
   ]
 }
